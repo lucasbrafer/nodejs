@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "básico de node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "_mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasbrafer/nodejs.git"
+  },
+  "keywords": [
+    "inicio"
+  ],
+  "author": "lucasbrafer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasbrafer/nodejs/issues"
+  },
+  "homepage": "https://github.com/lucasbrafer/nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  }
+}
