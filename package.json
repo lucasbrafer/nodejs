@@ -4,7 +4,7 @@
   "description": "básico de node JS",
   "main": "index.js",
   "scripts": {
-    "test": "_mocha",
+    "test": "npx mocha",
     "start": "node index.js"
   },
   "repository": {
